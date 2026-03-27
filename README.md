@@ -405,4 +405,5 @@ ssh -i ~/.ssh/id_rsa opc@instance-20210714-xxxx.subnet.vcn.oraclevcn.com
 ```
  
    
+    
  
